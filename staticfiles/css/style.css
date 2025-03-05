@@ -1,0 +1,18 @@
+.note {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+.card {
+    transition: transform 0.2s;
+}
+.card:hover {
+    transform: scale(1.02);
+}
+.navbar-brand {
+    font-weight: bold;
+}
